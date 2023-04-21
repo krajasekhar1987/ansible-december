@@ -1,0 +1,16 @@
+aws
+
+Ec2
+EBS
+vpc
+nat gateway
+vpc peering
+transit gateway
+s3
+Autoscaling
+route53
+vpc endpoint
+security groups and nacl's
+vpn
+terraform
+
